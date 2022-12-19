@@ -22,4 +22,4 @@ The inspiration behind this project came from a [Kaggle Data Contest](https://ww
 ---
 
 ## **Demo**
-[Demo](./demo.mp4)
+![Demo](./demo.mp4)
