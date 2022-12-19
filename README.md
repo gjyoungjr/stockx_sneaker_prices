@@ -12,14 +12,12 @@ The ultimate goal of this project, is to forecast a shoe's resale price based on
 ---
 
 ## **Background**
+This project was born by incorporating my passion for sneakers with learning AI/ML. As a sneakerhead, I have faced many challenges with the unpredictable nature of market prices. As a reseller or buyer, you can lose some serious money with one wrong move or decision. Let’s take this simple dilemma, as an example. Nike is dropping a new dunk, and you are planning to buy 100+ pairs. After purchasing the pairs, you realize that the sneakers are not selling because they are not in high demand as you expected. Your money is now all tied up in inventory that will not sell, which is practically a huge loss.💔
 
-The global sneaker resale market has seen a tremendous growth rate over the past few years and is now estimated to be worth billions. A key factor to that advancement is the huge marketplace apps like StockX, Grailed, Goat, and eBay, and also the numerous independent resellers over social media. Furthermore, it has been reported that on average the profit margin per sale is 42.5%. Despite how profitable the sneaker reselling trade might seem, it is a risky business. The sneaker market is unpredictable, similar to the stock market. Resellers can lose some serious money with one wrong move or decision. Let’s take this simple dilemma, as an example. Nike is dropping a new dunk, and you are planning to buy 100+ pairs. After purchasing the pairs, you realize that the sneakers are not selling because they are not in high demand as you expected. Your money is now all tied up in inventory that will not sell, which is practically a huge loss.💔
-
-This tool aims to resolve the issue by forecasting which sneaker is valuable and when to purchase it.
-
-The inspiration behind this project came from a [Kaggle Data Contest](https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest), the dataset is a collection of Stockx Sneaker sales from 2019.
+This tool aims to resolve the issue by forecasting which sneaker is most valuable and when to purchase it.
 
 ---
 
 ## **Demo**
-![Demo](./demo.mp4)
+https://user-images.githubusercontent.com/61463108/208331016-7808f785-adf4-4d2c-821a-a7083026aa15.mp4
+
