@@ -1,6 +1,6 @@
 # 📈 **Predicting StockX Sneaker Prices**
 
-The ultimate goal of this project, is to forecast a shoe's resale price based on a variety of variables, including the type of sneaker and the location where the buyer is located.
+The ultimate goal of this project, is to forecast a shoe's resale price based on a variety of categorical features, including the brand of the sneaker, location, retail price, release date, etc.
 
 
 
