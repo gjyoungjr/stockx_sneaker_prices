@@ -20,3 +20,6 @@ This tool aims to resolve the issue by forecasting which sneaker is valuable and
 The inspiration behind this project came from a [Kaggle Data Contest](https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest), the dataset is a collection of Stockx Sneaker sales from 2019.
 
 ---
+
+## **Demo**
+[Demo](./demo.mp4)
