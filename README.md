@@ -16,5 +16,5 @@ This project was born by incorporating my passion for sneakers with learning AI/
 This tool aims to resolve the issue by forecasting which sneaker is most valuable and when to purchase it.
 
 ## **Demo**
-https://user-images.githubusercontent.com/61463108/208331316-d246361a-ec0b-4e91-9a9a-8ea28c28de9f.mp4
+https://user-images.githubusercontent.com/61463108/209867115-46e791dd-b4d6-4dea-bea3-7476c6422b0a.mp4
 
